@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Henry! (@depth-first-henry)
-- 👀 I’m interested in RPGs and passing out at the gym
-- 🌱 I’m currently learning OO Programming and Design!
-  - 🎓 also learning as a student in Computer Science (possibly Computer Engineering in September) 
+- 👀 I’m interested in RPGs and passing out at the gym (not really the passing out part)
+- 🌱 I’m currently a student in Computer Science or possibly Computer Engineering in September
 - 💞️ I’m looking to collaborate on: anything, maybe mods for games or smart device projects :)
 - 📫 How to reach me: not here haha (unless you're an employer)
 
