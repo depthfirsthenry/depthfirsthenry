@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry! (@depth-first-henry)
+- 👋 Hi, I’m Henry! (@depthfirsthenry)
 - 👀 I’m interested in RPGs and passing out at the gym (not really the passing out part)
 - 🌱 I’m currently a student in Computer Science and Media Arts
 
